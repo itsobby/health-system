@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db   = 'health_system';
+$db   = 'health-system';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
